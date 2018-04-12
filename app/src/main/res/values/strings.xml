@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CIIS Quiz App</string>
+    <string name="header1">How well do you know CIIS?</string>
+    <string name="introCopy">California Institute of Integral Studies turns 50 this month. How well do you know the history of this unique university?</string>
+    <string name="q1">Question 1: What year was CIIS founded?</string>
+    <string name="q1a1">1983</string>
+    <string name="q1a2">1968</string>
+    <string name="q1a3">1999</string>
+    <string name="q1a4">1976</string>
+    <string name="q2">Question 2: Which of these are NOT acacdemic programs at CIIS?</string>
+    <string name="q2a1">Integrative Ancestoral Leadership</string>
+    <string name="q2a2"><![CDATA[Philosophy, Cosmology, & Consciouness]]></string>
+    <string name="q2a3">Integral and Transpersonal Psychology</string>
+    <string name="q2a4">Holistic Mindfulness Studies</string>
+    <string name="q2a5"><![CDATA[Ecology, Spirituality, & Religion]]></string>
+    <string name="q3">Question 3: Who founded CIIS?</string>
+    <string name="q3a1">Lisa Denenmark</string>
+    <string name="q3a2">Robert McDermott</string>
+    <string name="q3a3">Haridus Chaudhuri</string>
+    <string name="q3a4">Judie Wexler</string>
+    <string name="q4">Question 4: What is CIIS\' mascot name?</string>
+    <string name="q4a1">The Integral Yogi</string>
+    <string name="q4a2">The Cosmic Creator</string>
+    <string name="q4a3">Hamish Kumaran</string>
+    <string name="q4a4">CIIS doesn\'t have a mascot</string>
+    <string name="q5">Question 5: CIIS has four schools. Select them below</string>
+    <string name="q5a1">School of Acupuncture</string>
+    <string name="q5a2">American College of Traditional Chinese Medicine</string>
+    <string name="q5a3">School of Mindful Being</string>
+    <string name="q5a4">School of Professional Psychology and Health</string>
+    <string name="q5a5">School of Undergraduate Studies</string>
+    <string name="q5a6">School of Consciousness and Transformation</string>
+    <string name="q6">Question 6: Who is the current president of CIIS?</string>
+    <string name="q6hint">Enter their name here</string>
+    <string name="submit_button">Submit</string>
+    <string name="img_description">CIIS 50th Anniversary Logo</string>
+</resources>
