@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    int answeredCorrect = 0;
+    private int answeredCorrect = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
         CheckBox checkQuestionFiveD = findViewById(R.id.q5a4);
         CheckBox checkQuestionFiveE = findViewById(R.id.q5a5);
         CheckBox checkQuestionFiveF = findViewById(R.id.q5a6);
-        
+
         boolean questionFiveAnswer = !checkQuestionFiveA.isChecked() && checkQuestionFiveB.isChecked() && !checkQuestionFiveC.isChecked() && checkQuestionFiveD.isChecked() && checkQuestionFiveE.isChecked() && checkQuestionFiveF.isChecked();
         if (questionFiveAnswer) {
             answeredCorrect++;
